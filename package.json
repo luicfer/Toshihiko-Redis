@@ -1,6 +1,6 @@
 {
   "name": "toshihiko-redis",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "The redis support for Toshihiko as an addon",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,6 @@
   "homepage": "https://github.com/luicfer/Toshihiko-Redis",
   "dependencies": {
     "debug": "^2.1.2",
-    "hiredis": "^0.2.0",
     "redis": "^0.12.1"
   }
 }
