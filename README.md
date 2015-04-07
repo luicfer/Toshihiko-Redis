@@ -1,7 +1,8 @@
 # Toshihiko-Redis
 
-The redis support for Toshihiko as an addon.
+[![Dependency Status](https://david-dm.org/luicfer/Toshihiko-Redis.svg)](https://david-dm.org/luicfer/Toshihiko-Redis)
 
+The redis support for Toshihiko as an addon.
 ## Installation
 
 ```sh
