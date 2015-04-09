@@ -23,5 +23,9 @@
   "dependencies": {
     "debug": "^2.1.2",
     "redis": "^0.12.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^5.2.0"
   }
 }
