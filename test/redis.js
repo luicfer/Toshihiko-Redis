@@ -16,6 +16,7 @@ describe('Array', function(){
     describe('#_getKey', function(){
         it('should return key name', function(){
             redis._getKey('test', 'book', 1).should.eql('_test_book:1');
+            redis._getKey('test', 'book', {sid:1,pid:2}).should.eql('_test_book:sid1:pid2');
         });
     });
     describe('#setData', function () {
