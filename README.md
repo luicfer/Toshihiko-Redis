@@ -1,7 +1,7 @@
 # Toshihiko-Redis
 
 [![Build Status](https://travis-ci.org/luicfer/Toshihiko-Redis.svg)](https://travis-ci.org/luicfer/Toshihiko-Redis)
-[![Coverage Status](https://coveralls.io/repos/luicfer/Toshihiko-Redis/badge.svg)](https://coveralls.io/r/luicfer/Toshihiko-Redis)
+[![Coverage Status](https://coveralls.io/repos/luicfer/Toshihiko-Redis/badge.svg?branch=master)](https://coveralls.io/r/luicfer/Toshihiko-Redis?branch=master)
 [![Dependency Status](https://david-dm.org/luicfer/Toshihiko-Redis.svg)](https://david-dm.org/luicfer/Toshihiko-Redis)
 [![devDependency Status](https://david-dm.org/Luicfer/Toshihiko-Redis/dev-status.svg)](https://david-dm.org/Luicfer/Toshihiko-Redis#info=devDependencies)
 
