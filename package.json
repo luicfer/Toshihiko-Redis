@@ -1,6 +1,6 @@
 {
   "name": "toshihiko-redis",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "The redis support for Toshihiko as an addon",
   "main": "index.js",
   "scripts": {
