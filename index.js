@@ -1,5 +1,4 @@
 var Redis = module.exports = require("./lib/redis");
-
 /**
  * create toshihiko redis
  * @param {String} servers the servers addresses
